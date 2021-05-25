@@ -15,7 +15,7 @@
 
 #### 详细了解，扫码加微信
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gquopgk5wmj30u00u5n8s.jpg" alt="1" style="zoom:30%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gquopgk5wmj30u00u5n8s.jpg" alt="1" style="zoom:30%;width:500px;float:left" />
 
 #### 项目案例（仅作为展示，非交付案例）
 
