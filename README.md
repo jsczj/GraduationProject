@@ -13,10 +13,6 @@
 
 
 
-#### 详细了解，扫码加微信
-
-![]<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gquopgk5wmj30u00u5n8s.jpg" alt="1" style="width:150;float:left" />
-
 #### 项目案例（仅作为展示，交付案例不会公开）
 
 [1.博客项目springboot+vue](https://github.com/jsczj/blog-vue-springboot)
@@ -52,6 +48,10 @@
 [16.记账系统](https://github.com/jsczj/Money)
 
 [17.门禁管理系统](https://github.com/jsczj/QRcode_doorManage)
+
+#### 详细了解，扫码加微信
+
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gquopgk5wmj30u00u5n8s.jpg" alt="1" style="width:150px;float:left" />
 
 
 
